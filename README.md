@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Yash Verma
 
-<!--
-**yash4-3-5/yash4-3-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on building projects and improving my problem-solving skills.
+- 🌱 I'm currently learning **C++, Java, Python, Web Development, and Data Analytics**.
+- 👯 I'm open to collaborating on interesting projects.
+- 🤔 I'm exploring new technologies and learning different areas of software development.
+- 💬 Ask me about **C++, Python, JavaScript, MongoDB, and Web Development**.
+- 📫 GitHub: [@yash4-3-5](https://github.com/yash4-3-5)
+- ⚡ Fun fact: I enjoy learning new technologies and building things through code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Technologies
+
+- **Languages:** C++, Java, Python, JavaScript
+- **Web Development:** HTML, CSS, Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub
+
+---
+
+⭐ Thanks for visiting my profile!
